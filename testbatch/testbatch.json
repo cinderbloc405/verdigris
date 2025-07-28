@@ -1,0 +1,110 @@
+{
+  "batch_id": "CB-TEST",
+  "packaged_date": "2025-07-27",
+  "ingredients": [
+    {
+      "ingredient": "Serrano Pepper",
+      "brand": "Cinderbloc",
+      "origin": "Edmond, OK",
+      "supplier": "Cinderbloc",
+      "organic": true,
+      "notes": "Painstakingly grown in my backyard."
+    },
+    {
+      "ingredient": "Distilled White Vinegar",
+      "brand": "Garden Club",
+      "origin": "USA",
+      "supplier": "Crest",
+      "organic": false,
+      "notes": "Grain-derived. Distilled white vinegar is just pure acetic acid dissolved in water. It can be derived from petroleum products—kinda gross, huh? Although it may be chemically identical to plant-derived distilled white vinegar, the idea of feeding anyone something made in an oil refinery seems like a bad idea."
+    },
+    {
+      "ingredient": "Onion",
+      "brand": "N/A",
+      "origin": "Unknown",
+      "supplier": "Sprouts",
+      "organic": true,
+      "notes": "Please recommend a local organic supplier."
+    },
+    {
+      "ingredient": "Garlic",
+      "brand": "Spice World",
+      "origin": "California",
+      "supplier": "Crest",
+      "organic": true,
+      "notes": ""
+    },
+    {
+      "ingredient": "Lime Juice",
+      "brand": "Unknown",
+      "origin": "Unknown",
+      "supplier": "Sprouts",
+      "organic": true,
+      "notes": "Juiced fresh."
+    },
+    {
+      "ingredient": "Cilantro",
+      "brand": "N/A",
+      "origin": "Unknown",
+      "supplier": "Sprouts",
+      "organic": true,
+      "notes": "Fresh."
+    },
+    {
+      "ingredient": "Olive Oil",
+      "brand": "Terra Delyssa",
+      "origin": "Tunisia",
+      "supplier": "Honestly, I am not sure where this was purchased. It is in a big bottle, so it likely came from a big box store. :(",
+      "organic": true,
+      "notes": "Organic first cold-pressed extra virgin olive oil – dang, that’s a lot of words."
+    },
+    {
+      "ingredient": "Salt",
+      "brand": "Kirkland Signature",
+      "origin": "Australia",
+      "supplier": "Costco",
+      "organic": false,
+      "notes": "May have been stolen from Costco. Salt cannot be certified organic. Any salt that claims to be organic is a liar."
+    },
+    {
+      "ingredient": "Black Pepper",
+      "brand": "Unknown",
+      "origin": "Unknown",
+      "supplier": "Unknown",
+      "organic": false,
+      "notes": "It is possible this is organic. Acquired by barter with a friend as a Ziploc bag of whole peppercorns."
+    }
+  ],
+  "packaging": {
+    "bottle": {
+      "type": "5 oz woozy bottle",
+      "material": "Clear glass",
+      "supplier": "Berlin Packaging",
+      "notes": "Standard woozy bottle."
+    },
+    "cap": {
+      "type": "White plastisol-lined cap",
+      "material": "Plastic",
+      "supplier": "Aura Valley",
+      "notes": "FDA compliant packaging."
+    },
+    "label": {
+      "type": "Main front/back label",
+      "material": "Vinyl",
+      "supplier": "StickerApp.com",
+      "notes": "I had a coupon I could not refuse. The vinyl stickers easily peel away from glass, making reuse/recycling a breeze."
+    },
+    "qr_label": {
+      "type": "Batch-specific QR code",
+      "material": "Paper",
+      "supplier": "Avery",
+      "notes": "I have to be able to print these at home."
+    },
+    "shrink_seal": {
+      "type": "Neck shrink band",
+      "material": "PVC",
+      "supplier": "SZCJMYKJ",
+      "notes": "Yeah, it sucks, I know. I wanted to keep the product as fresh as possible."
+    }
+  }
+}
